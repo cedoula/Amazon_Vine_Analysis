@@ -7,7 +7,7 @@ We focused on the US reviews for video games.
 
 ## Resources
 - Data Source: [Amazon Review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt), [Video Games Review dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz)
-- Software: Google Colab Notebook, pgAdmin 4, AWS
+- Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
 
 ## Results
 ### Total number of reviews
